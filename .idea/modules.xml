@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlaramService.iml" filepath="$PROJECT_DIR$/AlaramService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlaramServiceWithBroadCast.iml" filepath="$PROJECT_DIR$/AlaramServiceWithBroadCast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
